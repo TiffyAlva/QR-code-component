@@ -1,9 +1,3 @@
-
-/* @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100&display=swap'); */
-
-  /* @import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap'); */
-  /* @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap'); */
-
 body {
   background-color: hsl(212, 45%, 89%);
   font-family: 'Outfit', sans-serif;
@@ -15,22 +9,18 @@ body {
   max-width: 230px;
   max-height: 320px;
   background-color: hsl(0, 0%, 100%);
-  padding: 10px 0 10px 0;
+  padding: 10px 0px 10px 0px;
   margin: 200px auto 0 auto;
   border-radius: 12px;
   
 }
 
-.card {
-  border-radius: 12px;
-  width: 100%;
-}
-
+/*barcode*/
 img {
   display: block;
   width: 200px;
   height: 200px;
-  border-radius: 5px;
+  border-radius: 6px;
   margin: 0 auto 0 auto;
 
  
@@ -47,19 +37,21 @@ h1 {
   color: #aaaaaa;
   text-align: center;
  
- 
 }
-
-
  
-.attribution { 
-  padding: 12px;
+
+ .attribution { 
+  padding: 15px;
   text-align: center;
-  font-size: 15px;
-  font-weight: 400; 
- 
+  font-size: 15px; 
 }
 
 .attribution a { 
   color: hsl(228, 45%, 44%); 
+  
 } 
+
+a:hover {
+  color: red;
+}
+
