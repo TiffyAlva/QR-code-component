@@ -1,12 +1,12 @@
 body {
   background-color: hsl(212, 45%, 89%);
   font-family: 'Outfit', sans-serif;
-  letter-spacing: .5px;
+  letter-spacing: .10px;
   
 }
 
 .container {
-  max-width: 230px;
+  max-width: 225px;
   max-height: 320px;
   background-color: hsl(0, 0%, 100%);
   padding: 10px 0px 10px 0px;
@@ -28,15 +28,13 @@ img {
 
 h1 {
   font-size: 15px;
-  font-family: 'Outfit', sans-serif;
+  margin: 0 0 15px 0px;
 }
 
 
 .para {
   font-size: 11px;
   color: #aaaaaa;
-  text-align: center;
- 
 }
  
 
@@ -47,11 +45,15 @@ h1 {
 }
 
 .attribution a { 
-  color: hsl(228, 45%, 44%); 
-  
+  color: hsl(228, 45%, 44%);
+  font-weight: bold;  
 } 
 
 a:hover {
   color: red;
 }
 
+/* @media only screen 
+   and (min-width : 320px) {
+   font-size: ;
+} */
