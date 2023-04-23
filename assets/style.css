@@ -54,6 +54,8 @@ a:hover {
 }
 
 
+
+/*Media Screen */
 @media screen and (max-width: 768px) {
   .container {
     flex-direction: row;
