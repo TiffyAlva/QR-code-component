@@ -1,3 +1,9 @@
+# Deployed
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c7bb526d-cd2e-4980-99b3-671dd271b3bc/deploy-status)](https://app.netlify.com/sites/qr-code-component-3746/deploys)
+
+- <strong>Netlify Link: <a href="https://qr-code-component-3746.netlify.app/">Click</a></strong>
+
 # Frontend Mentor - QR code component
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
