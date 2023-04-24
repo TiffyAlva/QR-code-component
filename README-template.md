@@ -45,11 +45,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
@@ -83,21 +79,21 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) - This helped me to properly center the component in the page. I really liked this pattern and will use it going forward.
+- [Centering in CSS](https://moderncss.dev/complete-guide-to-centering-in-css/#xy-centering-for-block-elements) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
 **Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Portfolio](https://tiffyalva.github.io/my-portfolio/)
+- Frontend Mentor - [@TiffyAlva](https://www.frontendmentor.io/profile/TiffyAlva)
+- Twitter - [@Tiffaalu](https://twitter.com/Tiffaalu)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+I would like to give a shout-out to a helpful individual [Abdul Khalid](https://www.frontendmentor.io/profile/0xAbdulKhalid) who provided me with some valuable tips on web development. Abdul suggested that rather than using margin and padding to center components both horizontally and vertically, I should use Flexbox or Grid layout. This technique dynamically centers the component at all states and is considered best practice for web development. I greatly appreciate his input, as it has helped me improve my skills in this area.
 
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+
